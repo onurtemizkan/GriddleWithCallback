@@ -2,7 +2,7 @@
   "name": "griddle-callback",
   "version": "0.3.2",
   "description": "A Griddle wrapper for obtaining external data with a callback.",
-  "main": "modules/griddleWithCallback.jsx.js",
+  "main": "scripts/griddleWithCallback.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
